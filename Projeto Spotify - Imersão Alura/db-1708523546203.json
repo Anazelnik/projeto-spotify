@@ -1,0 +1,46 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Guns N' Roses",
+      "genre": "Rock",
+      "urlImg": "https://whiplash.net/imagens_promo_22/gunsnroses_classic_five.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Rihanna",
+      "genre": "Pop",
+      "urlImg": "https://cdn.folhape.com.br/img/pc/1100/1/dn_arquivo/2018/02/rihanna.png"
+    },
+    {
+      "id": 3,
+      "name": "Emicida",
+      "genre": "Hip Hop",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068"
+    },
+    {
+      "id": 4,
+      "name": "Marilia Mendonça",
+      "genre": "Sertanejo",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174ffaebdbc972967729f688e25"
+    },
+    {
+      "id": 5,
+      "name": "Ludmilla",
+      "genre": "Funk",
+      "urlImg": "https://pbs.twimg.com/profile_images/1661363023146102784/Io1O0Mw8_400x400.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Arlindo Cruz",
+      "genre": "Samba",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174181873f93056642d7b340839"
+    },
+    {
+      "id": 7,
+      "name": "Caetano Veloso",
+      "genre": "MPB",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757"
+    }
+  ]
+}
